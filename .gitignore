@@ -1,0 +1,42 @@
+# --- секреты и локальный конфиг ---
+.env
+.env.*
+!.env.example
+
+# --- внутренняя документация (не в публичный git) ---
+План_действий.md
+Архитектура.md
+_tz_extract.txt
+_tz_tables.txt
+*.docx
+
+# --- виртуальное окружение ---
+.venv/
+venv/
+env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- рантайм ---
+data/
+
+# --- IDE / ОС ---
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+.~lock.*
