@@ -5,7 +5,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/channel-MAX-1E6BFF?style=flat-square" alt="MAX"/>
-  <img src="https://img.shields.io/badge/city-Miass-5C6BC0?style=flat-square" alt="Miass"/>
   <img src="https://img.shields.io/badge/LLM-GigaChat%20optional-21A038?style=flat-square" alt="GigaChat"/>
   <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=flat-square" alt="Python"/>
 </p>
